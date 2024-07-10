@@ -6,7 +6,7 @@ import shutil  # Import the shutil module for file operations
 
 api_key = ''
 api_secret = ''
-access_token = '4717534696-'
+access_token = ''
 access_token_secret = ''
 media_path = r"folder path with all the images you want to use"
 allImages = list()
